@@ -1,0 +1,3 @@
+from .trainer_serializer import TrainerSerializer
+from .training_module_serializer import TrainingModuleSerializer
+from .resource_serializer import ResourceSerializer
